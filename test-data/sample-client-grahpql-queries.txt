@@ -1,0 +1,9 @@
+query getRules {
+  getRules
+}
+
+mutation makeNewCase ($newCase: CaseInput!) {
+  makeNewCase(newCase: $newCase) {
+    result
+  }
+}

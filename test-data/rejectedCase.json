@@ -1,0 +1,14 @@
+{
+  "newCase" : {
+    "salary": 1000,
+    "settlementAgreement": false,
+    "isEmployed": false,
+    "lastEmployedOver3Months": true,
+    "numberOfYearsEmployed": 3,
+    "discrimination": {
+      "flag": true,
+      "sex": true
+    },
+    "description": "This is a description of this case"
+  }
+}
